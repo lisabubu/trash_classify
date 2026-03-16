@@ -37,3 +37,7 @@
 [![ZWzPIg.png](https://s2.ax1x.com/2019/07/12/ZWzPIg.png)](https://imgchr.com/i/ZWzPIg)
 
 ### 完结撒花！~
+
+## Related repository
+
+* AortaSeg24: https://github.com/ImranNust/AortaSeg24
